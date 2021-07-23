@@ -1,6 +1,6 @@
 # SeriesApi​ :cinema: #  
 
-***SeriesApi*** é uma api simples de para guardar e consumir informações sobre séries utilizando C# e MongoDB. 
+***SeriesApi*** é uma api simples para guardar e consumir informações sobre séries utilizando C# e MongoDB. 
 
 * **GET**: StatusCode - 200
 
